@@ -1,2 +1,1 @@
-# CS121Exercise
-Number Guesser Game
+# CS121 Exercise: Number Guesser Game
